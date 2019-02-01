@@ -1,4 +1,4 @@
-use core::alloc::{AllocErr, GlobalAlloc, Layout};
+use core::alloc::{GlobalAlloc, Layout};
 
 use bindings;
 use c_types;
