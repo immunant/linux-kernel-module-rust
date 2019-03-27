@@ -32,5 +32,5 @@ kernel_module!(
     HelloWorldModule,
     author: "Alex Gaynor and Geoffrey Thomas",
     description: "An extremely simple kernel module",
-    license: "GPL"
+    __module_license_string: "GPL"
 );
